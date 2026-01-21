@@ -4,11 +4,11 @@ public class Demo {
     public static void main(String[] args) {
         // raw type
         /*
-         * Map map= new HashMap<>();
-         * map.put(1,"rahul");
-         * map.put("Leader","santhosh");
-         * map.put(null,'a');
-         * map.put(3.17,"PI Value");
+          Map map= new HashMap<>();
+          map.put(1,"rahul");
+          map.put("Leader","santhosh");
+          map.put(null,'a');
+          map.put(3.17,"PI Value");
          */
 
         Map<Integer, String> map = new HashMap<>();
