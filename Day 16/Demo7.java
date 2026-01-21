@@ -34,5 +34,15 @@ public class Demo7 {
         }
     );
     System.out.println(list);
+
+
+    List<Integer> list2= new ArrayList<>(Arrays.asList(5,3,2,1,4));
+
+    //Collections.sort(list2); //1 2 3 4 5
+    //Collections.reverse(list); // 4 1 2 3 5
+    //Collections.sort(list2,Collections.reverseOrder());
+   
+
+
     }
 }
